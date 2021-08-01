@@ -1,0 +1,20 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+ body {
+  background-color: #84b660;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.posit{
+  background-color:#fff;
+  padding: 10px 18px;
+  max-width: 800px;
+  margin: 50px 0;
+
+}
